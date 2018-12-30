@@ -4,6 +4,9 @@ require 'json'
 require 'active_support/all'
 require 'fileutils'
 require 'uri'
+require 'dotenv' # This pulls the API key from the .env file
+Dotenv.load
+
 # Remember to add json, activesupport, and fileutils to Gemfile
 
 # Airtable Fetch Hook
@@ -13,11 +16,9 @@ Jekyll::Hooks.register :site, :after_init do |site|
 
 	site.read
  
-	@airtable_config = Jekyll.configuration({'config' => ['_config.yml', '_secret.yml']})['airtable']
-		# Hash specifies the non-standard paths of config files
-		# This pulls the API located in a new file _secret.yml, which will not be uploaded to the public repository
-		# puts @airtable_config 	## test that the API key from _secret.yml is pulling in correctly
-	@api_key = @airtable_config['api_key']
+	@airtable_config = Jekyll.configuration({})['airtable']
+	#	@api_key = @airtable_config['api_key']
+	@api_key = ENV["API_KEY"]
 
 	def get_table(table_id, sheet, view, offset=nil)
 	  uri = URI("https://api.airtable.com/v0/#{table_id}/#{sheet}?view=#{view}") # Pulls from specified view, should match sorting of that view.

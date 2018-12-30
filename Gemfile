@@ -13,6 +13,7 @@ gem 'activesupport'
 gem 'pry'
 gem "json"
 gem 'fileutils'
+gem 'dotenv'
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minimal-mistakes-jekyll"
