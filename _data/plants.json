@@ -1,0 +1,182 @@
+{
+  "reckpgYAtJDwIObQI": {
+    "description": "First off, Lucky Bamboo isn’t a bamboo at all. The canes, stalks or stems (whatever you prefer to call them) resemble the canes of a bamboo plant. It’s a dracaena, Dracaena sanderiana or braunii to be exact. Lucky Bamboo has been a part of Chinese culture for thousands of years but has really skyrocketed into popularity in the past 15 years and is now commonly found in many parts of the world.",
+    "title": "Lucky bamboo",
+    "photo": [
+      {
+        "id": "att52CZVAsFlu8TX9",
+        "url": "https://dl.airtable.com/j5UmOGE4TLCCd4lLd5O2_m5420634-luckyBamboo.jpg",
+        "filename": "m5420634-luckyBamboo.jpg",
+        "size": 178932,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/In53HdLfTsOzZbzzHVNm_small_m5420634-luckyBamboo.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/tCiDauRTMGN9o9TwVTgv_large_m5420634-luckyBamboo.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/HtLWoe9iRSeQbPvC2dq9_full_m5420634-luckyBamboo.jpg",
+            "width": 600,
+            "height": 800
+          }
+        }
+      }
+    ],
+    "type": "plant",
+    "water": "You can grow the stem directly in a glass of distilled or purified water. Change every once in a while.",
+    "light": "Does best in bright light. Can tolerate lower light but will not grow much.",
+    "scientific_name": "Dracaena braunii",
+    "id": "reckpgYAtJDwIObQI",
+    "base": "plants"
+  },
+  "recg81NZISUXsC4Ko": {
+    "description": "The aloe vera plant is an easy, attractive succulent that makes for a great indoor companion. Aloe vera plants are useful, too, as the juice from their leaves can be used to relieve pain from scrapes and burns when applied topically. ",
+    "title": "Aloe",
+    "photo": [
+      {
+        "id": "attgahWKJ5NSfUiQn",
+        "url": "https://dl.airtable.com/hhLzI3LHR2q7dzILu9G8_transplanting-aloe-vera-new-pot.jpg",
+        "filename": "transplanting-aloe-vera-new-pot.jpg",
+        "size": 76177,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/VqyRtxexTRiP971o8o9C_small_transplanting-aloe-vera-new-pot.jpg",
+            "width": 44,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/ZjjezM09RIKyZIUK7W5N_large_transplanting-aloe-vera-new-pot.jpg",
+            "width": 627,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/vRshgXFJQViHAVshBt1o_full_transplanting-aloe-vera-new-pot.jpg",
+            "width": 750,
+            "height": 612
+          }
+        }
+      }
+    ],
+    "type": "plant",
+    "water": "Water aloe vera plants deeply, but infrequently. To discourage rot, allow the soil to dry at least 1 to 2 inches deep between waterings. Don’t let your plant sit in water.",
+    "light": "Place in bright, indirect sunlight or artificial light. A western or southern window is ideal. ",
+    "scientific_name": "Aloe vera",
+    "id": "recg81NZISUXsC4Ko",
+    "base": "plants"
+  },
+  "rec56mVcrJa79Q5Dv": {
+    "description": "For generations, philodendrons have served as a mainstay in interior gardens. Philodendron care is easy because if you watch for the signals, the plant will tell you exactly what it needs. Even inexperienced houseplant owners will have no trouble growing philodendron plants because they adapt readily to the conditions inside the home.",
+    "title": "Philodendron",
+    "photo": [
+      {
+        "id": "attOOO1SRAm3CWNMj",
+        "url": "https://dl.airtable.com/mfeMso7TQBakhtNGrEpJ_s-l640.jpg",
+        "filename": "s-l640.jpg",
+        "size": 49982,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/6NcehgiGRPGdWbumEDij_small_s-l640.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/AcL5dvZ8QdWU4cGUG3YM_large_s-l640.jpg",
+            "width": 640,
+            "height": 426
+          },
+          "full": {
+            "url": "https://dl.airtable.com/nCjYqLXQSXWNsbZjbbdu_full_s-l640.jpg",
+            "width": 640,
+            "height": 426
+          }
+        }
+      }
+    ],
+    "type": "plant",
+    "water": "Allow the top inch of soil to dry out between waterings.",
+    "light": "Set the plant in a location with bright, indirect sunlight. Find a position near a window where the sun’s rays never actually touch the foliage.",
+    "scientific_name": "Philodendron scandens",
+    "id": "rec56mVcrJa79Q5Dv",
+    "base": "plants"
+  },
+  "rec9J2jhvP6k26IKc": {
+    "description": "What makes ZZ plant such a good houseplant is that it's wonderfully tolerant to a wide range of conditions, including low light, low humidity, and periods of drought. That means it will survive just about any corner of your home, even if you only water it once every couple of weeks.",
+    "title": "ZZ plant",
+    "photo": [
+      {
+        "id": "attG3M2ortmjZRGBF",
+        "url": "https://dl.airtable.com/PdesgbgSbGzzbYVXqokg_blush_square_540x540%402x.jpg",
+        "filename": "blush_square_540x540@2x.jpg",
+        "size": 205215,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/ccCehUL6RCqWIk271iYf_small_blush_square_540x540%402x.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/0XlFN1uzTQRKI7IMNKSv_large_blush_square_540x540%402x.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/VBqDx4yqQXO1rTjj3zyV_full_blush_square_540x540%402x.jpg",
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    ],
+    "type": "plant",
+    "water": "Water the plant only when the soil has dried out.",
+    "light": "Do best in bright to moderate, indirect light but will do fine in extremely low levels of light. This plant makes an ideal plant for a window-less office or bathroom where it will only receive small amounts of fluorescent light.",
+    "scientific_name": "Zamioculcas zamiifolia",
+    "id": "rec9J2jhvP6k26IKc",
+    "base": "plants"
+  },
+  "recaW7XFYBLrXUbei": {
+    "description": "The pothos plant is considered by many to be a great way to get started caring for houseplants. Because pothos care in easy and undemanding, this lovely plant is an easy way to add some green in your home.",
+    "title": "Pothos",
+    "photo": [
+      {
+        "id": "atty5Tr4j7mkZlXJi",
+        "url": "https://dl.airtable.com/T6kdLQaNSZeQoYp3LqLv_pothos1-400x533.jpg",
+        "filename": "pothos1-400x533.jpg",
+        "size": 48627,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/0Ag1IOMTg6pkJRMMXYap_small_pothos1-400x533.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/8A9iyfnRtmlJ9Hbvi833_large_pothos1-400x533.jpg",
+            "width": 400,
+            "height": 533
+          },
+          "full": {
+            "url": "https://dl.airtable.com/evoYIoAQOf6Jdxhukcw6_full_pothos1-400x533.jpg",
+            "width": 400,
+            "height": 533
+          }
+        }
+      }
+    ],
+    "type": "plant",
+    "water": "Pothos is very popular due to the fact that it can be grown in water or in dry soil. Cuttings can be taken from a mother plant and rooted in water and kept in water as a houseplant.",
+    "light": "Pothos plants make a great addition to you bathroom or office because they can tolerate low light. While pothos likes a wide variety of light conditions, they do not do well in direct sunlight.",
+    "scientific_name": "Epipremnum aureum",
+    "id": "recaW7XFYBLrXUbei",
+    "base": "plants"
+  }
+}

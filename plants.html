@@ -1,0 +1,9 @@
+---
+layout: home
+---
+
+<h1>Plant Care Guide 🌿</h1>
+<br />
+{% for item in site.data.plantsparams.records %}
+<p><a href="{{ site.url }}/plants/{{ item.fields.title | slugify }}">{{item.fields.title}}</a></p>
+{% endfor %}
