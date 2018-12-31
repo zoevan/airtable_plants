@@ -20,4 +20,4 @@ In this exercise, I'm using Airtable as an easy content management system for Je
 
 This [Plants Airtable Base](https://airtable.com/shrkyrmwA7q05dfqp) tracks care instructions for a small collection of houseplants.
 
-The [Plant Care Guide]({{ site.url }}/plants/) section of this site automatically generates one page per record in this base via a few custom plugins.
+The [Plant Care Guide](/plants.html) section of this site automatically generates one page per record in this base via a few custom plugins.
