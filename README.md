@@ -16,7 +16,7 @@ This [Plants Airtable Base](https://airtable.com/shrkyrmwA7q05dfqp) tracks care 
 
 The Plant Care Guide section of [this site](https://morning-chamber-80661.herokuapp.com/plants.html) automatically generates one page per record in this base via a few custom plugins based on [these Jekyll-Airtable utilities](https://github.com/calebhicks/jekyll-airtable-utilities).
 
-#Overview:
+# Overview:
 - The Airtable API Key is stored as a config variable in the `.env` file (added to `.gitignore`) and config variables were added directly to Heroku for deployment.
 - Settings `_config.yml` dictate which Airtable tables/views are pulled and where pages are generated.
 - The `airtable_fetcher.rb` plugin generates a JSON file with the record data in the `_data` folder.
